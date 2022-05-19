@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+<<<<<<< HEAD
+yarn-error.log
+=======
+yarn-error.log
+>>>>>>> 2c5eb4d6439b521227e5b1dc5466f61a8dde109d
